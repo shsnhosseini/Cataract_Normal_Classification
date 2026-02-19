@@ -189,7 +189,3 @@ predictions = loaded_model.predict(test_images)
 - Paths in the notebook reference `/content/drive/MyDrive/` which are Google Colab paths
 - For local execution, update dataset paths accordingly
 - The pre-trained models (`weights.best.hdf5` and `tl_weights.best.hdf5`) contain the best checkpoints from training
-
-### Author
-
-**Seyyed Hossein Hosseini**
